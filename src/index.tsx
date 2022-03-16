@@ -4,7 +4,7 @@ import './index.css'
 import App from './App'
 import reportWebVitals from './reportWebVitals'
 import { AlertProvider } from './context/AlertContext'
-
+Import './index.html'
 ReactDOM.render(
   <React.StrictMode>
     <AlertProvider>
